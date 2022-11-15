@@ -1,6 +1,6 @@
 # Age of View
 
-Multiagent-Difference-Reward-based-deep-reinforcement-learning-with-a-Greedy-Bandwidth-Allocation (MDR-GBA)
+Xincao Xu, Kai Liu, Qisen Zhang, Hao Jiang, Ke Xiao and Jiangtao Luo, Age of View: A New Metric for Evaluating Heterogeneous Information Fusion in Vehicular Cyber-Physical Systems, IEEE 25th International Conference on Intelligent Transportation Systems (IEEE ITSC’22), Macau, China, October 8-12, 2022.
 
 ## Silde
 
