@@ -13,7 +13,7 @@ from Utilities.FileOperator import init_file_name
 from Utilities.FileOperator import save_init_files
 from Utilities.FileOperator import load_name
 from Agent.MDR_GBA import MDR_GBA_Agent
-from Environments.VehicularNetworkEnv.envs import VehicularNetworkEnv
+from VehicularNetworkEnv.envs import VehicularNetworkEnv
 from Config.AgentConfig import AgentConfig
 from Config.ExperimentConfig import ExperimentConfig
 

@@ -14,7 +14,7 @@ from nn_builder.pytorch.NN import NN  # construct a neural network via PyTorch
 from torch import Tensor
 from torch import optim
 import pandas as pd
-from Environments.VehicularNetworkEnv.envs.VehicularNetworkEnv import VehicularNetworkEnv
+from VehicularNetworkEnv.envs.VehicularNetworkEnv import VehicularNetworkEnv
 from Exploration_strategies.Gaussian_Exploration import Gaussian_Exploration
 from Config.AgentConfig import AgentConfig
 from Utilities.Data_structures.SensorCriticReplayBuffer import SensorCriticReplayBuffer

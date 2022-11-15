@@ -5,4 +5,4 @@
 @Author  ：Neardws
 @Date    ：6/22/21 4:08 下午 
 """
-from Environments.VehicularNetworkEnv.envs.VehicularNetworkEnv import VehicularNetworkEnv
+from VehicularNetworkEnv.envs.VehicularNetworkEnv import VehicularNetworkEnv
