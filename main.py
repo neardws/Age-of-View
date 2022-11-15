@@ -167,7 +167,7 @@ def run(first=False, rerun=False, environments_file_name=None, given_list_file_n
             experiment_config, agent_config, _ = init(load_name(list_file, 'init_environment_name'))
             new_list_file_name = init_file_name()
             save_init_files(new_list_file_name, experiment_config, agent_config, init_vehicularNetworkEnv)
-            agent = DR_GA_Agent(agent_config=agent_config, environment=init_vehicularNetworkEnv)
+            agent = MDR_GBA_Agent(agent_config=agent_config, environment=init_vehicularNetworkEnv)
             agent.run_n_episodes(temple_agent_config_name=load_name(new_list_file_name, 'temple_agent_config_name'),
                                 temple_agent_name=load_name(new_list_file_name, 'temple_agent_name'),
                                 temple_result_name=load_name(new_list_file_name, 'temple_result_name'),
